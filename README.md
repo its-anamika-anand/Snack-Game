@@ -12,7 +12,7 @@ Welcome to **Snack Game**, a fun and engaging game where players navigate a "sna
 - **Customizable**: Modify game settings to suit your preferences.
 
 ---
-Github clone 
+Github clone https://github.com/its-anamika-anand/Snack-Game.git
 
 ## Getting Started
 
@@ -28,12 +28,12 @@ To run Snack Game, you'll need:
    git clone 
    ```
 2. Navigate to the project directory:
-   ```bash
+3. 
    cd snack-game
-   ```
-3. Install required dependencies:
+   
+4. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+   
    ```
 
 ---
